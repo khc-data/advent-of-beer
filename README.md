@@ -2,7 +2,7 @@
 
 ## Getting started
 
-To find out the day assignment you need to run the `day_assignment.py`-script. This can be done by installing Python on your local machine, but it's oh so much 2020 to use docker. Here's how:
+To find out the day assignment you need to run the `day_assignment.py`-script. This can be done by installing Python on your local machine, but it's oh so much more 2020 to use docker. Here's how:
 - Download and install Docker Desktop ([Windows](http://https://hub.docker.com/editions/community/docker-ce-desktop-windows "Windows") | [Mac](https://docs.docker.com/docker-for-mac/install/ "Mac"))
 - Download and install Git ([Windows](https://gitforwindows.org/ "Windows") | [Mac](https://git-scm.com/download/mac "Mac"))
 - Create a directory to store the code, e.g. `c:\code`

@@ -1,6 +1,6 @@
 import random
 
-responsibles = ["Johan"] * 8 + ["Max"] * 8 + ["Magnus"] * 8
+responsibles = ["Johan"] * 8 + ["Magnus"] * 8 + ["Max"] * 8
 days = 24
 
 random.seed(2020)

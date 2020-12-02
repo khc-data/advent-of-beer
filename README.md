@@ -14,8 +14,8 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 
 | Day | Responsible | Beer | Untappd score | Ratebeer score |
 | --- | --- | --- | --- | --- |
-| 1 | Max | Weihenstephaner Hefe Weissbier | [3.8](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) | [RB 3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/) |
-| 2 | Max | Bernard Bohemian Winter Ale | [UT π](https://untappd.com/b/bernard-family-brewery-bohemian-winter-ale/1294417) | [RT 3.26](https://www.ratebeer.com/beer/bernard-bohemian-ale-16/279996/) |
+| 1 | Max | Weihenstephaner Hefe Weissbier | [3.8](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) | [3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/) |
+| 2 | Max | Bernard Bohemian Winter Ale | [π](https://untappd.com/b/bernard-family-brewery-bohemian-winter-ale/1294417) | [3.26](https://www.ratebeer.com/beer/bernard-bohemian-ale-16/279996/) |
 | 3 | Johan | | | |
 | 4 | Magnus | | | |
 | 5 | Max | | | |

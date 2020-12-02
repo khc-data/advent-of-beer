@@ -9,3 +9,30 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 - Open a terminal/powershell/cmd, cd to the directory you created and clone the repository using the command `git clone https://github.com/khc-data/advent-of-beer.git`
 - Start an interactive Python docker instance based on the `python:slim` image with the directory you created mapped as a volume to allow the instance to access the code: `docker run -it -v C:\code\advent-of-beer:/var/code -w /var/code python:slim bash`
 - Run the script: `python day_assignment.py`
+
+## Results
+
+1. Max - Weihenstephaner Hefe Weissbier
+2. Max
+3. Johan
+4. Magnus
+5. Max
+6. Max
+7. Magnus
+8. Max
+9. Johan
+10. Magnus
+11. Johan
+12. Magnus
+13. Johan
+14. Johan
+15. Magnus
+16. Magnus
+17. Johan
+18. Magnus
+19. Max
+20. Johan
+21. Magnus
+22. Max
+23. Max
+24. Johan

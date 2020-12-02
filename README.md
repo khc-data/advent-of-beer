@@ -12,8 +12,8 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 
 ## Results
 
-1. Max - Weihenstephaner Hefe Weissbier
-2. Max
+1. Max - Weihenstephaner Hefe Weissbier [UT 3.8](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) [RB 3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/)
+2. Max - Bernard Bohemian Winter Ale [UT π](https://untappd.com/b/bernard-family-brewery-bohemian-winter-ale/1294417) [RT 3.26](https://www.ratebeer.com/beer/bernard-bohemian-ale-16/279996/)
 3. Johan
 4. Magnus
 5. Max

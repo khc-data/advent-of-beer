@@ -17,7 +17,7 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 | 1 | Max | Weihenstephaner Hefe Weissbier | [3.8](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) | [3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/) |
 | 2 | Max | Bernard Bohemian Winter Ale | [π](https://untappd.com/b/bernard-family-brewery-bohemian-winter-ale/1294417) | [3.26](https://www.ratebeer.com/beer/bernard-bohemian-ale-16/279996/) |
 | 3 | Johan | Norrlands Guld Export | [2.8](https://untappd.com/b/spendrups-bryggeri-norrlands-guld-export/8267) | [2.1](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=9671) |
-| 4 | Magnus | | | |
+| 4 | Magnus | Stranger than Fiction | [3.7](https://untappd.com/b/collective-arts-brewing-stranger-than-fiction/1009922) | [3.7](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=325758) |
 | 5 | Max | | | |
 | 6 | Max | | | |
 | 7 | Magnus | | | |

@@ -14,13 +14,13 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 
 | Day | Responsible | Beer | Untappd score | Ratebeer score |
 | --- | --- | --- | --- | --- |
-| 1 | Max | Weihenstephaner Hefe Weissbier | [3.8](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) | [3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/) |
+| 1 | Max | Weihenstephaner Hefe Weissbier | [3.80](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) | [3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/) |
 | 2 | Max | Bernard Bohemian Winter Ale | [π](https://untappd.com/b/bernard-family-brewery-bohemian-winter-ale/1294417) | [3.26](https://www.ratebeer.com/beer/bernard-bohemian-ale-16/279996/) |
-| 3 | Johan | Norrlands Guld Export | [2.8](https://untappd.com/b/spendrups-bryggeri-norrlands-guld-export/8267) | [2.1](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=9671) |
-| 4 | Magnus | Stranger than Fiction | [3.7](https://untappd.com/b/collective-arts-brewing-stranger-than-fiction/1009922) | [3.7](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=325758) |
-| 5 | Max | | | |
-| 6 | Max | | | |
-| 7 | Magnus | | | |
+| 3 | Johan | Norrlands Guld Export | [2.76](https://untappd.com/b/spendrups-bryggeri-norrlands-guld-export/8267) | [2.12](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=9671) |
+| 4 | Magnus | Stranger than Fiction | [3.72](https://untappd.com/b/collective-arts-brewing-stranger-than-fiction/1009922) | [3.68](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=325758) |
+| 5 | Max | Oppigård Winter Ale | [3.45](https://untappd.com/b/oppigards-bryggeri-winter-ale/12168) | [3.42](https://www.ratebeer.com/beer/oppigards-winter-ale/39203/) |
+| 6 | Max | Bernard Celebration Lager | [3.32](https://untappd.com/b/bernard-family-brewery-celebration-lager-svatecni-lezak/14628) | [3.22](https://www.ratebeer.com/beer/bernard-svatecni-lezak-12-celebration-lager-12/26766/) |
+| 7 | Magnus | Purity Pure Gold | [3.31](https://untappd.com/b/purity-brewing-co-england-pure-gold/6445) | [3.23](https://www.ratebeer.com/beer/purity-pure-gold/54329/) |
 | 8 | Max | | | |
 | 9 | Johan | | | |
 | 10 | Magnus | | | |

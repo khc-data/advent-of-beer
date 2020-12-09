@@ -21,20 +21,20 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 | 5 | Max | Oppigård Winter Ale | [3.45](https://untappd.com/b/oppigards-bryggeri-winter-ale/12168) | [3.42](https://www.ratebeer.com/beer/oppigards-winter-ale/39203/) |
 | 6 | Max | Bernard Celebration Lager | [3.32](https://untappd.com/b/bernard-family-brewery-celebration-lager-svatecni-lezak/14628) | [3.22](https://www.ratebeer.com/beer/bernard-svatecni-lezak-12-celebration-lager-12/26766/) |
 | 7 | Magnus | Purity Pure Gold | [3.31](https://untappd.com/b/purity-brewing-co-england-pure-gold/6445) | [3.23](https://www.ratebeer.com/beer/purity-pure-gold/54329/) |
-| 8 | Max | | | |
-| 9 | Johan | | | |
+| 8 | Max | Hibernation Ale | [3.65](https://untappd.com/b/great-divide-brewing-company-hibernation-ale/414) | [3.74](https://www.ratebeer.com/beer/great-divide-hibernation-ale/1653/) |
+| 9 | Johan | Norrlands Guld Export? | | |
 | 10 | Magnus | | | |
-| 11 | Johan | | | |
+| 11 | Johan | Norrlands Guld Export? | | |
 | 12 | Magnus | | | |
-| 13 | Johan | | | |
-| 14 | Johan | | | |
+| 13 | Johan | Norrlands Guld Export? | | |
+| 14 | Johan | Norrlands Guld Export? | | |
 | 15 | Magnus | | | |
 | 16 | Magnus | | | |
-| 17 | Johan | | | |
+| 17 | Johan | Norrlands Guld Export? | | |
 | 18 | Magnus | | | |
 | 19 | Max | | | |
-| 20 | Johan | | | |
+| 20 | Johan | Norrlands Guld Export? | | |
 | 21 | Magnus | | | |
 | 22 | Max | | | |
 | 23 | Max | | | |
-| 24 | Johan | | | |
+| 24 | Johan | Norrlands Guld Export? | | |

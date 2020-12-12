@@ -25,7 +25,7 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 | 9 | Johan | Störtebeker Bernstein-Weizen | [3.42](https://untappd.com/b/stortebeker-braumanufaktur-bernstein-weizen/29780) | [3.20](https://www.ratebeer.com/beer/stoertebeker-bernstein-weizen/39881/) |
 | 10 | Magnus | Rocket The King In Yellow | [3.32](https://untappd.com/b/rocket-brewing-company-the-king-in-yellow/3161442) | [2.93](https://www.ratebeer.com/beer/rocket-the-king-in-yellow/754185/) |
 | 11 | Johan | Falcon Julbrygd | [2.93](https://untappd.com/b/carlsberg-sverige-falcon-julbrygd/97541) | [2.66](https://www.ratebeer.com/beer/falcon-juloel-julbrygd/19971/) |
-| 12 | Magnus | | | |
+| 12 | Magnus | Stigberget Muddle IPA | [3.91](https://untappd.com/b/stigbergets-bryggeri-muddle/1905809) | [3.97](https://www.ratebeer.com/beer/stigbergets-muddle/479461/) |
 | 13 | Johan | | | |
 | 14 | Johan | | | |
 | 15 | Magnus | | | |

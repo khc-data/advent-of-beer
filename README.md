@@ -26,9 +26,9 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 | 10 | Magnus | Rocket The King In Yellow | [3.32](https://untappd.com/b/rocket-brewing-company-the-king-in-yellow/3161442) | [2.93](https://www.ratebeer.com/beer/rocket-the-king-in-yellow/754185/) |
 | 11 | Johan | Falcon Julbrygd | [2.93](https://untappd.com/b/carlsberg-sverige-falcon-julbrygd/97541) | [2.66](https://www.ratebeer.com/beer/falcon-juloel-julbrygd/19971/) |
 | 12 | Magnus | Stigberget Muddle IPA | [3.91](https://untappd.com/b/stigbergets-bryggeri-muddle/1905809) | [3.97](https://www.ratebeer.com/beer/stigbergets-muddle/479461/) |
-| 13 | Johan | | | |
-| 14 | Johan | | | |
-| 15 | Magnus | | | |
+| 13 | Johan | Samuel Adams Winter Lager | [3.43](https://untappd.com/b/boston-beer-company-samuel-adams-winter-lager/3919) | [3.21](https://www.ratebeer.com/beer/samuel-adams-winter-lager/168/) |
+| 14 | Johan | Barrels And Drums Ginger Beer | [3.16](https://untappd.com/b/barrels-and-drums-ginger-beer/2679469) | N/A |
+| 15 | Magnus | Omnipollo Noa Pecan Mud Cake Stout | [4.23](https://untappd.com/b/omnipollo-noa-pecan-mud-cake-stout/1046298) | [4.03](https://www.ratebeer.com/beer/omnipollo-noa-pecan-mud-cake-double-barrel/409868/) |
 | 16 | Magnus | | | |
 | 17 | Johan | | | |
 | 18 | Magnus | | | |

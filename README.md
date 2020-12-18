@@ -29,9 +29,9 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 | 13 | Johan | Samuel Adams Winter Lager | [3.43](https://untappd.com/b/boston-beer-company-samuel-adams-winter-lager/3919) | [3.21](https://www.ratebeer.com/beer/samuel-adams-winter-lager/168/) |
 | 14 | Johan | Barrels And Drums Ginger Beer | [3.16](https://untappd.com/b/barrels-and-drums-ginger-beer/2679469) | N/A |
 | 15 | Magnus | Omnipollo Noa Pecan Mud Cake Stout | [4.23](https://untappd.com/b/omnipollo-noa-pecan-mud-cake-stout/1046298) | [4.03](https://www.ratebeer.com/beer/omnipollo-noa-pecan-mud-cake-double-barrel/409868/) |
-| 16 | Magnus | | | |
-| 17 | Johan | | | |
-| 18 | Magnus | | | |
+| 16 | Magnus | Omnipollo Fatamorgana | [4.00](https://untappd.com/b/omnipollo-fatamorgana/477842) | [3.80](https://untappd.com/b/omnipollo-fatamorgana/477842) |
+| 17 | Johan | Innis & Gunn Blood Red Sky | [3.53](https://untappd.com/b/innis-and-gunn-blood-red-sky/2335869) | [3.42](https://www.ratebeer.com/beer/innis-and-gunn-blood-red-sky/561004/) |
+| 18 | Magnus | Göteborg Christmas Session IPA | [2.99](https://untappd.com/b/goteborgs-nya-bryggeri-christmas-session-ipa/2364082) | [3.10](https://www.ratebeer.com/beer/goeteborgs-christmas-session-ipa/564296/) |
 | 19 | Max | | | |
 | 20 | Johan | | | |
 | 21 | Magnus | | | |

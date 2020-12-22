@@ -32,9 +32,9 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 | 16 | Magnus | Omnipollo Fatamorgana | [4.00](https://untappd.com/b/omnipollo-fatamorgana/477842) | [3.80](https://untappd.com/b/omnipollo-fatamorgana/477842) |
 | 17 | Johan | Innis & Gunn Blood Red Sky | [3.53](https://untappd.com/b/innis-and-gunn-blood-red-sky/2335869) | [3.42](https://www.ratebeer.com/beer/innis-and-gunn-blood-red-sky/561004/) |
 | 18 | Magnus | Göteborg Christmas Session IPA | [2.99](https://untappd.com/b/goteborgs-nya-bryggeri-christmas-session-ipa/2364082) | [3.10](https://www.ratebeer.com/beer/goeteborgs-christmas-session-ipa/564296/) |
-| 19 | Max | | | |
-| 20 | Johan | | | |
-| 21 | Magnus | | | |
-| 22 | Max | | | |
+| 19 | Max | Stigbergets Trouble Sleep | [3.84](https://untappd.com/b/stigbergets-bryggeri-trouble-sleep/2809562) | [3.66](https://www.ratebeer.com/beer/stigbergets-trouble-sleep/658382/) |
+| 20 | Johan | Abbaye D’aulne Christmas Triple Ale | [3.48](https://untappd.com/b/brasserie-de-l-abbaye-d-aulne-abbaye-d-aulne-christmas-triple-ale/4082926) | [3.75](https://www.ratebeer.com/beer/de-l-abbaye-d-aulne-biere-de-noel/878392/) |
+| 21 | Magnus | Beerbliotek A Moment of Clarity | [3.63](https://untappd.com/b/beerbliotek-a-moment-of-clarity/1920392) | [3.74](https://www.ratebeer.com/beer/beerbliotek-a-moment-of-clarity/485750/) |
+| 22 | Max | Stigbergets Bird in Hand Double IPA | [3.87](https://untappd.com/b/stigbergets-bryggeri-bird-in-hand/2866271) | [3.79](https://www.ratebeer.com/beer/stigbergets-bird-in-hand/670436/) |
 | 23 | Max | | | |
 | 24 | Johan | | | |

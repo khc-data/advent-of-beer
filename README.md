@@ -2,15 +2,15 @@
 
 ## Getting started
 
-To find out the day assignment you need to run the `day_assignment.py`-script. This can be done by installing Python on your local machine, but it's oh so much more 2020 to use docker. Here's how:
+To find out the day assignment you need to run the `day_assignment_yyyy.py`-script. This can be done by installing Python on your local machine, but it's oh so much more 2021 to use Docker. Here's how:
 - Download and install Docker Desktop ([Windows](http://https://hub.docker.com/editions/community/docker-ce-desktop-windows "Windows") | [Mac](https://docs.docker.com/docker-for-mac/install/ "Mac"))
 - Download and install Git ([Windows](https://gitforwindows.org/ "Windows") | [Mac](https://git-scm.com/download/mac "Mac"))
 - Create a directory to store the code, e.g. `c:\code`
 - Open a terminal/powershell/cmd, cd to the directory you created and clone the repository using the command `git clone https://github.com/khc-data/advent-of-beer.git`
 - Start an interactive Python docker instance based on the `python:slim` image with the directory you created mapped as a volume to allow the instance to access the code: `docker run -it -v C:\code\advent-of-beer:/var/code -w /var/code python:slim bash`
-- Run the script: `python day_assignment.py`
+- Run the script: `python day_assignment_yyyy.py`
 
-## Results
+## Results 2020
 
 | Day | Responsible | Beer | Untappd score | Ratebeer score |
 | --- | --- | --- | --- | --- |
@@ -37,4 +37,33 @@ To find out the day assignment you need to run the `day_assignment.py`-script. T
 | 21 | Magnus | Beerbliotek A Moment of Clarity | [3.63](https://untappd.com/b/beerbliotek-a-moment-of-clarity/1920392) | [3.74](https://www.ratebeer.com/beer/beerbliotek-a-moment-of-clarity/485750/) |
 | 22 | Max | Stigbergets Bird in Hand Double IPA | [3.87](https://untappd.com/b/stigbergets-bryggeri-bird-in-hand/2866271) | [3.79](https://www.ratebeer.com/beer/stigbergets-bird-in-hand/670436/) |
 | 23 | Max | | | |
+| 24 | Johan | | | |
+
+## Results 2021
+
+| Day | Responsible | Beer | Untappd score | Ratebeer score |
+| --- | --- | --- | --- | --- |
+| 1 | Max | | | |
+| 2 | Max | | | |
+| 3 | Magnus | | | |
+| 4 | Johan | | | |
+| 5 | Magnus | | | |
+| 6 | Max | | | |
+| 7 | Magnus | | | |
+| 8 | Johan | | | |
+| 9 | Johan | | | |
+| 10 | Magnus | | | |
+| 11 | Max | | | |
+| 12 | Johan | | | |
+| 13 | Max | | | |
+| 14 | Max | | | |
+| 15 | Magnus | | | |
+| 16 | Magnus | | | |
+| 17 | Johan | | | |
+| 18 | Max | | | |
+| 19 | Johan | | | |
+| 20 | Johan | | | |
+| 21 | Max | | | |
+| 22 | Magnus | | | |
+| 23 | Magnus | | | |
 | 24 | Johan | | | |

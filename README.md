@@ -37,7 +37,7 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 | 21 | Magnus | Beerbliotek A Moment of Clarity | [3.63](https://untappd.com/b/beerbliotek-a-moment-of-clarity/1920392) | [3.74](https://www.ratebeer.com/beer/beerbliotek-a-moment-of-clarity/485750/) |
 | 22 | Max | Stigbergets Bird in Hand Double IPA | [3.87](https://untappd.com/b/stigbergets-bryggeri-bird-in-hand/2866271) | [3.79](https://www.ratebeer.com/beer/stigbergets-bird-in-hand/670436/) |
 | 23 | Max | | | |
-| 24 | Johan | | | |
+| 24 | Johan | Nils Oscar God Lager | [3.28](https://untappd.com/b/nils-oscar-god-lager/7816) | [3.12](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=6135) |
 
 ## Results 2021
 

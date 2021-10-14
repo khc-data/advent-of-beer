@@ -36,7 +36,7 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 | 20 | Johan | Abbaye D’aulne Christmas Triple Ale | [3.48](https://untappd.com/b/brasserie-de-l-abbaye-d-aulne-abbaye-d-aulne-christmas-triple-ale/4082926) | [3.75](https://www.ratebeer.com/beer/de-l-abbaye-d-aulne-biere-de-noel/878392/) |
 | 21 | Magnus | Beerbliotek A Moment of Clarity | [3.63](https://untappd.com/b/beerbliotek-a-moment-of-clarity/1920392) | [3.74](https://www.ratebeer.com/beer/beerbliotek-a-moment-of-clarity/485750/) |
 | 22 | Max | Stigbergets Bird in Hand Double IPA | [3.87](https://untappd.com/b/stigbergets-bryggeri-bird-in-hand/2866271) | [3.79](https://www.ratebeer.com/beer/stigbergets-bird-in-hand/670436/) |
-| 23 | Max | https://www.systembolaget.se/produkt/ol/lagunitas-holiday-ale-1131203/ | [3.62](https://untappd.com/b/lagunitas-brewing-company-lagunitas-sucks-holiday-ale-2020/4036799) | [3.99](https://www.ratebeer.com/beer/lagunitas-sucks/158433/) |
+| 23 | Max | Lagunitas Holiday Ale | [3.62](https://untappd.com/b/lagunitas-brewing-company-lagunitas-sucks-holiday-ale-2020/4036799) | [3.99](https://www.ratebeer.com/beer/lagunitas-sucks/158433/) |
 | 24 | Johan | Nils Oscar God Lager | [3.28](https://untappd.com/b/nils-oscar-god-lager/7816) | [3.12](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=6135) |
 
 ## Results 2021

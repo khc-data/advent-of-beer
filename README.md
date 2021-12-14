@@ -54,7 +54,7 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 | 9 | Johan | | | |
 | 10 | Magnus | Kaiserdom - Hefeweissbier | [3.19](https://untappd.com/b/privatbrauerei-kaiserdom-hefe-weissbier/15252) | [2.78](https://www.ratebeer.com/beer/kaiserdom-hefe-weissbier/117954/) |
 | 11 | Max | Stigberget - Fraktur | [4.05](https://untappd.com/b/stigbergets-bryggeri-fraktur/4283581) | [3.80](https://www.ratebeer.com/beer/stigbergets-fraktur/926326/) |
-| 12 | Johan | | | |
+| 12 | Johan | Sibbarps Husbryggeri - 79 | [3.38](https://untappd.com/b/sibbarps-husbryggeri-79/3985701) | [3.69](https://www.ratebeer.com/beer/sibbarps-79/865394/) |
 | 13 | Max | Beerbliotek - Silly Season| [3.50](https://untappd.com/b/beerbliotek-silly-season/4555167) | [3.48](https://www.ratebeer.com/beer/beerbliotek-silly-season/966725/) |
 | 14 | Max | Stockholm Brewing - Italopils Extra | [3.46](https://untappd.com/b/stockholm-brewing-co-italopils-extra/4228123) | [3.49](https://www.ratebeer.com/beer/stockholm-italopils-extra/919653/) |
 | 15 | Magnus | | | |

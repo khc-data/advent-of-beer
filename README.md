@@ -46,11 +46,11 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 | 1 | Max | All in brewing - Wheat seems to be the officer problem| [3.52](https://untappd.com/b/all-in-brewing-wheat-seems-to-be-the-officer-problem-citra-and-sabro/4385766)| [3.62](https://www.ratebeer.com/beer/all-in-brewing-stigbergets-wheat-seems-to-be-the-officer-problem-yellow-green/270492/) |
 | 2 | Max | To Øl - DIPA | [3.88](https://untappd.com/b/to-ol-dipa/4028211) | [3.71](https://www.ratebeer.com/beer/to-ol-dipa/871943/) |
 | 3 | Magnus | Rocket Brewing Company - Penitent | [3.32](https://untappd.com/b/rocket-brewing-company-penitent/4318476) | N/A |
-| 4 | Johan | | | |
+| 4 | Johan | Sälens Fjällbryggeri - Fjälldimma | [3.49](https://untappd.com/b/salens-fjallbryggeri-fjalldimma/4185911) | [3.45](https://www.ratebeer.com/beer/saelens-fjaelldimma/919397/) |
 | 5 | Magnus | Budweiser - Budvar B:DARK| [3.28](https://untappd.com/b/budejovicky-budvar-budweiser-budvar-b-dark-czechvar-b-dark/39819) | N/A |
 | 6 | Max | Weihenstephaner - Hefeweissbier | [3.79](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) | [3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/) |
 | 7 | Magnus | Guiness - Draught | [3.77](https://untappd.com/b/guinness-guinness-draught/4473) | [3.56](https://www.ratebeer.com/beer/guinness-draught/1267/) |
-| 8 | Johan | | | |
+| 8 | Johan | South Plains Brewing Company - Used Motor Oil | [3.47](https://untappd.com/b/south-plains-brewing-company-used-motor-oil/2001994) | [3.45](https://www.ratebeer.com/beer/south-plains-used-motor-oil/498477/) |
 | 9 | Johan | | | |
 | 10 | Magnus | Kaiserdom - Hefeweissbier | [3.19](https://untappd.com/b/privatbrauerei-kaiserdom-hefe-weissbier/15252) | [2.78](https://www.ratebeer.com/beer/kaiserdom-hefe-weissbier/117954/) |
 | 11 | Max | Stigberget - Fraktur | [4.05](https://untappd.com/b/stigbergets-bryggeri-fraktur/4283581) | [3.80](https://www.ratebeer.com/beer/stigbergets-fraktur/926326/) |

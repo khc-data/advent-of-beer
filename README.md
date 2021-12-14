@@ -43,20 +43,20 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 
 | Day | Responsible | Beer | Untappd score | Ratebeer score |
 | --- | --- | --- | --- | --- |
-| 1 | Max | | | |
-| 2 | Max | | | |
+| 1 | Max | All in brewing - Wheat seems to be the officer problem| [3.52](https://untappd.com/b/all-in-brewing-wheat-seems-to-be-the-officer-problem-citra-and-sabro/4385766)| [3.62](https://www.ratebeer.com/beer/all-in-brewing-stigbergets-wheat-seems-to-be-the-officer-problem-yellow-green/270492/) |
+| 2 | Max | To Øl - DIPA | [3.88](https://untappd.com/b/to-ol-dipa/4028211) | [3.71](https://www.ratebeer.com/beer/to-ol-dipa/871943/) |
 | 3 | Magnus | | | |
 | 4 | Johan | | | |
 | 5 | Magnus | | | |
-| 6 | Max | | | |
+| 6 | Max | Weihenstephaner - Hefeweissbier | [3.79](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) | [3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/) |
 | 7 | Magnus | | | |
 | 8 | Johan | | | |
 | 9 | Johan | | | |
 | 10 | Magnus | | | |
-| 11 | Max | | | |
+| 11 | Max | Stigberget - Fraktur | [4.05](https://untappd.com/b/stigbergets-bryggeri-fraktur/4283581) | [3.80](https://www.ratebeer.com/beer/stigbergets-fraktur/926326/) |
 | 12 | Johan | | | |
-| 13 | Max | | | |
-| 14 | Max | | | |
+| 13 | Max | Beerbliotek - Silly Season| [3.50](https://untappd.com/b/beerbliotek-silly-season/4555167) | [3.48](https://www.ratebeer.com/beer/beerbliotek-silly-season/966725/) |
+| 14 | Max | Stockholm Brewing - Italopils Extra | [3.46](https://untappd.com/b/stockholm-brewing-co-italopils-extra/4228123) | [3.49](https://www.ratebeer.com/beer/stockholm-italopils-extra/919653/) |
 | 15 | Magnus | | | |
 | 16 | Magnus | | | |
 | 17 | Johan | | | |

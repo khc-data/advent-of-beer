@@ -51,13 +51,13 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 | 6 | Max | Weihenstephaner - Hefeweissbier | [3.79](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) | [3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/) |
 | 7 | Magnus | Guiness - Draught | [3.77](https://untappd.com/b/guinness-guinness-draught/4473) | [3.56](https://www.ratebeer.com/beer/guinness-draught/1267/) |
 | 8 | Johan | South Plains Brewing Company - Used Motor Oil | [3.47](https://untappd.com/b/south-plains-brewing-company-used-motor-oil/2001994) | [3.45](https://www.ratebeer.com/beer/south-plains-used-motor-oil/498477/) |
-| 9 | Johan | | | |
+| 9 | Johan | Hönsinge Hantwerksbryggeri - Räntmästarens Röda | [3.29](https://untappd.com/b/honsinge-hantwerksbryggeri-rantmastarens-roda/696757) | [3.18](https://www.ratebeer.com/beer/hoensinge-raentmaestarens-roeda/323994/) |
 | 10 | Magnus | Kaiserdom - Hefeweissbier | [3.19](https://untappd.com/b/privatbrauerei-kaiserdom-hefe-weissbier/15252) | [2.78](https://www.ratebeer.com/beer/kaiserdom-hefe-weissbier/117954/) |
 | 11 | Max | Stigberget - Fraktur | [4.05](https://untappd.com/b/stigbergets-bryggeri-fraktur/4283581) | [3.80](https://www.ratebeer.com/beer/stigbergets-fraktur/926326/) |
 | 12 | Johan | Sibbarps Husbryggeri - 79 | [3.38](https://untappd.com/b/sibbarps-husbryggeri-79/3985701) | [3.69](https://www.ratebeer.com/beer/sibbarps-79/865394/) |
 | 13 | Max | Beerbliotek - Silly Season| [3.50](https://untappd.com/b/beerbliotek-silly-season/4555167) | [3.48](https://www.ratebeer.com/beer/beerbliotek-silly-season/966725/) |
 | 14 | Max | Stockholm Brewing - Italopils Extra | [3.46](https://untappd.com/b/stockholm-brewing-co-italopils-extra/4228123) | [3.49](https://www.ratebeer.com/beer/stockholm-italopils-extra/919653/) |
-| 15 | Magnus | | | |
+| 15 | Magnus | Bira 91 - Summer Lager | [2.99](https://untappd.com/b/bira-91-bira-91-blonde/981756) | [2.14](https://www.ratebeer.com/brewers/cerana-beverages/22029/) |
 | 16 | Magnus | | | |
 | 17 | Johan | | | |
 | 18 | Max | | | |

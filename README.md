@@ -58,7 +58,7 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 | 13 | Max | Beerbliotek - Silly Season| [3.50](https://untappd.com/b/beerbliotek-silly-season/4555167) | [3.48](https://www.ratebeer.com/beer/beerbliotek-silly-season/966725/) |
 | 14 | Max | Stockholm Brewing - Italopils Extra | [3.46](https://untappd.com/b/stockholm-brewing-co-italopils-extra/4228123) | [3.49](https://www.ratebeer.com/beer/stockholm-italopils-extra/919653/) |
 | 15 | Magnus | Bira 91 - Summer Lager | [2.99](https://untappd.com/b/bira-91-bira-91-blonde/981756) | [2.14](https://www.ratebeer.com/brewers/cerana-beverages/22029/) |
-| 16 | Magnus | | | |
+| 16 | Magnus | St Peter's - Cream Stout | [3.61](https://untappd.com/b/st-peter-s-brewery-co-cream-stout/797) | [3.65](https://www.ratebeer.com/beer/st-peter-s-cream-stout-bottled/5301/) |
 | 17 | Johan | | | |
 | 18 | Max | | | |
 | 19 | Johan | | | |

@@ -59,11 +59,12 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 | 14 | Max | Stockholm Brewing - Italopils Extra | [3.46](https://untappd.com/b/stockholm-brewing-co-italopils-extra/4228123) | [3.49](https://www.ratebeer.com/beer/stockholm-italopils-extra/919653/) |
 | 15 | Magnus | Bira 91 - Summer Lager | [2.99](https://untappd.com/b/bira-91-bira-91-blonde/981756) | [2.14](https://www.ratebeer.com/brewers/cerana-beverages/22029/) |
 | 16 | Magnus | St Peter's - Cream Stout | [3.61](https://untappd.com/b/st-peter-s-brewery-co-cream-stout/797) | [3.65](https://www.ratebeer.com/beer/st-peter-s-cream-stout-bottled/5301/) |
-| 17 | Johan | | | |
-| 18 | Max | | | |
-| 19 | Johan | | | |
-| 20 | Johan | | | |
-| 21 | Max | | | |
+| 17 | Johan | Storpramen - Dark | [3.18](https://untappd.com/b/pivovary-staropramen-staropramen-dark-beer-cerny-lezak/130017) | [3.04](https://www.ratebeer.com/beer/staropramen-cerny-dark-temne/4791/) |
+| 001 | Max | zzZnark - zzz001 | [3.39](https://untappd.com/b/zzz-zzznark-zzz001/4130698) | [3.13](https://www.ratebeer.com/beer/zzz001/892407/) |
+| 008 | Max | zzZnark - zzz008 | [3.97](https://untappd.com/b/zzz-zzznark-zzz008/4223949) | [3.77](https://www.ratebeer.com/beer/zzz008/915315/) |
+| 19 | Johan | Modelo - Negra | [3.29](https://untappd.com/b/grupo-modelo-modelo-negra/5852) | [2.79](https://www.ratebeer.com/beer/modelo-negra/745/) |
+| 20 | Johan | Sibbarps - Festbier | [3.20](https://untappd.com/b/sibbarps-husbryggeri-festbier/1663726) | [3.15](https://www.ratebeer.com/beer/sibbarps-festbier/457934/) |
+| 21 | Max | Duckpond Brewing - Topolino | [4.03](https://untappd.com/b/duckpond-brewing-topolino/3832316) | [3.54](https://www.ratebeer.com/beer/duckpond-topolino/853766/) |
 | 22 | Magnus | | | |
 | 23 | Magnus | | | |
 | 24 | Johan | | | |

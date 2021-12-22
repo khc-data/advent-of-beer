@@ -65,6 +65,6 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 | 19 | Johan | Modelo - Negra | [3.29](https://untappd.com/b/grupo-modelo-modelo-negra/5852) | [2.79](https://www.ratebeer.com/beer/modelo-negra/745/) |
 | 20 | Johan | Sibbarps - Festbier | [3.20](https://untappd.com/b/sibbarps-husbryggeri-festbier/1663726) | [3.15](https://www.ratebeer.com/beer/sibbarps-festbier/457934/) |
 | 21 | Max | Duckpond Brewing - Topolino | [4.03](https://untappd.com/b/duckpond-brewing-topolino/3832316) | [3.54](https://www.ratebeer.com/beer/duckpond-topolino/853766/) |
-| 22 | Magnus | | | |
+| 22 | Magnus | Våga Boga - 10.2% | [2.22](https://untappd.com/b/three-towns-independent-brewers-arboga-extra-stark-10-2/53125) | [1.98](https://www.ratebeer.com/beer/arboga-10-2/12495/) |
 | 23 | Magnus | | | |
 | 24 | Johan | | | |

@@ -68,3 +68,32 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 | 22 | Magnus | Våga Boga - 10.2% | [2.22](https://untappd.com/b/three-towns-independent-brewers-arboga-extra-stark-10-2/53125) | [1.98](https://www.ratebeer.com/beer/arboga-10-2/12495/) |
 | 23 | Magnus | | | |
 | 24 | Johan | | | |
+
+## Results 2022
+
+| Day | Responsible | Beer | Untappd score | Ratebeer score |
+| --- | --- | --- | --- | --- |
+| 1 | Max | | | |
+| 2 | Magnus | | | |
+| 3 | Magnus | | | |
+| 4 | Max | | | |
+| 5 | Magnus | | | |
+| 6 | Max | | | |
+| 7 | Johan | | | |
+| 8 | Max | | | |
+| 9 | Max | | | |
+| 10 | Magnus | | | |
+| 11 | Magnus | | | |
+| 12 | Johan | | | |
+| 13 | Johan | | | |
+| 14 | Magnus | | | |
+| 15 | Johan | | | |
+| 16 | Max | | | |
+| 17 | Johan | | | |
+| 18 | Max | | | |
+| 19 | Max | | | |
+| 20 | Johan | | | |
+| 21 | Johan | | | |
+| 22 | Magnus | | | |
+| 23 | Magnus | | | |
+| 24 | Johan | | | |

@@ -73,15 +73,15 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 
 | Day | Responsible | Beer | Untappd score | Ratebeer score |
 | --- | --- | --- | --- | --- |
-| 1 | Max | | | |
+| 1 | Max | Berliner Pils | [3.06](https://untappd.com/b/berliner-kindl-schultheiss-brauerei-radeberger-gruppe-berliner-pilsner/6578) | [2.76](https://www.ratebeer.com/beer/berliner-pilsner/13471/) |
 | 2 | Magnus | | | |
 | 3 | Magnus | | | |
-| 4 | Max | | | |
+| 4 | Max | Retard Beer | [3.45](https://untappd.com/b/west-coast-beersmiths-retard-beer/2588825) | [3.38](https://www.ratebeer.com/beer/beersmiths-retard-beer/639120/) |
 | 5 | Magnus | | | |
-| 6 | Max | | | |
+| 6 | Max | Brewski ¡Buena Para El Papa! ¿Si, No? | [4.11](https://untappd.com/b/brewski-buena-para-el-papa-si-no/1520934) | [3.87](https://www.ratebeer.com/beer/brewski-buena-para-el-papa-si-no/418435/) |
 | 7 | Johan | | | |
-| 8 | Max | | | |
-| 9 | Max | | | |
+| 8 | Max | Maisel's Weisse Original | [3.61](https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642) | [3.63](https://www.ratebeer.com/beer/maisels-weisse-original/4560/) |
+| 9 | Max | Omnipollo Michaeil | [3.39](https://untappd.com/b/omnipollo-michael/5000659) | [3.06](https://www.ratebeer.com/beer/omnipollo-michael/1048880/) |
 | 10 | Magnus | | | |
 | 11 | Magnus | | | |
 | 12 | Johan | | | |

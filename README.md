@@ -10,34 +10,61 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 - Start an interactive Python docker instance based on the `python:slim` image with the directory you created mapped as a volume to allow the instance to access the code: `docker run -it -v C:\code\advent-of-beer:/var/code -w /var/code python:slim bash`
 - Run the script: `python day_assignment_yyyy.py`
 
-## Results 2020
+## Results 2023
+
+| 1 | Magnus | | | |
+| 2 | Max | | | |
+| 3 | Magnus | | | |
+| 4 | Magnus | | | |
+| 5 | Magnus | | | |
+| 6 | Max | | | |
+| 7 | Magnus | | | |
+| 8 | Johan | | | |
+| 9 | Johan | | | |
+| 10 | Max | | | |
+| 11 | Johan | | | |
+| 12 | Max | | | |
+| 13 | Max | | | |
+| 14 | Max | | | |
+| 15 | Johan | | | |
+| 16 | Johan | | | |
+| 17 | Magnus | | | |
+| 18 | Johan | | | |
+| 19 | Max | | | |
+| 20 | Johan | | | |
+| 21 | Magnus | | | |
+| 22 | Magnus | | | |
+| 23 | Johan | | | |
+| 24 | Max | | | |
+
+## Results 2022
 
 | Day | Responsible | Beer | Untappd score | Ratebeer score |
 | --- | --- | --- | --- | --- |
-| 1 | Max | Weihenstephaner Hefe Weissbier | [3.80](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) | [3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/) |
-| 2 | Max | Bernard Bohemian Winter Ale | [π](https://untappd.com/b/bernard-family-brewery-bohemian-winter-ale/1294417) | [3.26](https://www.ratebeer.com/beer/bernard-bohemian-ale-16/279996/) |
-| 3 | Johan | Norrlands Guld Export | [2.76](https://untappd.com/b/spendrups-bryggeri-norrlands-guld-export/8267) | [2.12](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=9671) |
-| 4 | Magnus | Stranger than Fiction | [3.72](https://untappd.com/b/collective-arts-brewing-stranger-than-fiction/1009922) | [3.68](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=325758) |
-| 5 | Max | Oppigård Winter Ale | [3.45](https://untappd.com/b/oppigards-bryggeri-winter-ale/12168) | [3.42](https://www.ratebeer.com/beer/oppigards-winter-ale/39203/) |
-| 6 | Max | Bernard Celebration Lager | [3.32](https://untappd.com/b/bernard-family-brewery-celebration-lager-svatecni-lezak/14628) | [3.22](https://www.ratebeer.com/beer/bernard-svatecni-lezak-12-celebration-lager-12/26766/) |
-| 7 | Magnus | Purity Pure Gold | [3.31](https://untappd.com/b/purity-brewing-co-england-pure-gold/6445) | [3.23](https://www.ratebeer.com/beer/purity-pure-gold/54329/) |
-| 8 | Max | Hibernation Ale | [3.65](https://untappd.com/b/great-divide-brewing-company-hibernation-ale/414) | [3.74](https://www.ratebeer.com/beer/great-divide-hibernation-ale/1653/) |
-| 9 | Johan | Störtebeker Bernstein-Weizen | [3.42](https://untappd.com/b/stortebeker-braumanufaktur-bernstein-weizen/29780) | [3.20](https://www.ratebeer.com/beer/stoertebeker-bernstein-weizen/39881/) |
-| 10 | Magnus | Rocket The King In Yellow | [3.32](https://untappd.com/b/rocket-brewing-company-the-king-in-yellow/3161442) | [2.93](https://www.ratebeer.com/beer/rocket-the-king-in-yellow/754185/) |
-| 11 | Johan | Falcon Julbrygd | [2.93](https://untappd.com/b/carlsberg-sverige-falcon-julbrygd/97541) | [2.66](https://www.ratebeer.com/beer/falcon-juloel-julbrygd/19971/) |
-| 12 | Magnus | Stigberget Muddle IPA | [3.91](https://untappd.com/b/stigbergets-bryggeri-muddle/1905809) | [3.97](https://www.ratebeer.com/beer/stigbergets-muddle/479461/) |
-| 13 | Johan | Samuel Adams Winter Lager | [3.43](https://untappd.com/b/boston-beer-company-samuel-adams-winter-lager/3919) | [3.21](https://www.ratebeer.com/beer/samuel-adams-winter-lager/168/) |
-| 14 | Johan | Barrels And Drums Ginger Beer | [3.16](https://untappd.com/b/barrels-and-drums-ginger-beer/2679469) | N/A |
-| 15 | Magnus | Omnipollo Noa Pecan Mud Cake Stout | [4.23](https://untappd.com/b/omnipollo-noa-pecan-mud-cake-stout/1046298) | [4.03](https://www.ratebeer.com/beer/omnipollo-noa-pecan-mud-cake-double-barrel/409868/) |
-| 16 | Magnus | Omnipollo Fatamorgana | [4.00](https://untappd.com/b/omnipollo-fatamorgana/477842) | [3.80](https://untappd.com/b/omnipollo-fatamorgana/477842) |
-| 17 | Johan | Innis & Gunn Blood Red Sky | [3.53](https://untappd.com/b/innis-and-gunn-blood-red-sky/2335869) | [3.42](https://www.ratebeer.com/beer/innis-and-gunn-blood-red-sky/561004/) |
-| 18 | Magnus | Göteborg Christmas Session IPA | [2.99](https://untappd.com/b/goteborgs-nya-bryggeri-christmas-session-ipa/2364082) | [3.10](https://www.ratebeer.com/beer/goeteborgs-christmas-session-ipa/564296/) |
-| 19 | Max | Stigbergets Trouble Sleep | [3.84](https://untappd.com/b/stigbergets-bryggeri-trouble-sleep/2809562) | [3.66](https://www.ratebeer.com/beer/stigbergets-trouble-sleep/658382/) |
-| 20 | Johan | Abbaye D’aulne Christmas Triple Ale | [3.48](https://untappd.com/b/brasserie-de-l-abbaye-d-aulne-abbaye-d-aulne-christmas-triple-ale/4082926) | [3.75](https://www.ratebeer.com/beer/de-l-abbaye-d-aulne-biere-de-noel/878392/) |
-| 21 | Magnus | Beerbliotek A Moment of Clarity | [3.63](https://untappd.com/b/beerbliotek-a-moment-of-clarity/1920392) | [3.74](https://www.ratebeer.com/beer/beerbliotek-a-moment-of-clarity/485750/) |
-| 22 | Max | Stigbergets Bird in Hand Double IPA | [3.87](https://untappd.com/b/stigbergets-bryggeri-bird-in-hand/2866271) | [3.79](https://www.ratebeer.com/beer/stigbergets-bird-in-hand/670436/) |
-| 23 | Max | Lagunitas Holiday Ale | [3.62](https://untappd.com/b/lagunitas-brewing-company-lagunitas-sucks-holiday-ale-2020/4036799) | [3.99](https://www.ratebeer.com/beer/lagunitas-sucks/158433/) |
-| 24 | Johan | Nils Oscar God Lager | [3.28](https://untappd.com/b/nils-oscar-god-lager/7816) | [3.12](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=6135) |
+| 1 | Max | Berliner Pils | [3.06](https://untappd.com/b/berliner-kindl-schultheiss-brauerei-radeberger-gruppe-berliner-pilsner/6578) | [2.76](https://www.ratebeer.com/beer/berliner-pilsner/13471/) |
+| 2 | Magnus | Stigbergets Shangrilager | | |
+| 3 | Magnus | | | |
+| 4 | Max | Retard Beer | [3.45](https://untappd.com/b/west-coast-beersmiths-retard-beer/2588825) | [3.38](https://www.ratebeer.com/beer/beersmiths-retard-beer/639120/) |
+| 5 | Magnus | Omnipollo Michaeil | [3.39](https://untappd.com/b/omnipollo-michael/5000659) | [3.06](https://www.ratebeer.com/beer/omnipollo-michael/1048880/) |
+| 6 | Max | Brewski ¡Buena Para El Papa! ¿Si, No? | [4.11](https://untappd.com/b/brewski-buena-para-el-papa-si-no/1520934) | [3.87](https://www.ratebeer.com/beer/brewski-buena-para-el-papa-si-no/418435/) |
+| 7 | Johan | | | |
+| 8 | Max | Maisel's Weisse Original | [3.61](https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642) | [3.63](https://www.ratebeer.com/beer/maisels-weisse-original/4560/) |
+| 9 | Max | Omnipollo Michaeil | [3.39](https://untappd.com/b/omnipollo-michael/5000659) | [3.06](https://www.ratebeer.com/beer/omnipollo-michael/1048880/) |
+| 10 | Magnus | | | |
+| 11 | Magnus | | | |
+| 12 | Johan | | | |
+| 13 | Johan | | | |
+| 14 | Magnus | | | |
+| 15 | Johan | | | |
+| 16 | Max | No worries | | |
+| 17 | Johan | | | |
+| 18 | Max | Stigberget Juleljus | | |
+| 19 | Max | Two great Mondays | | |
+| 20 | Johan | Eriksberg Karaktär | | |
+| 21 | Johan | | | |
+| 22 | Magnus | | | |
+| 23 | Magnus | | | |
+| 24 | Johan | | | |
 
 ## Results 2021
 
@@ -69,31 +96,31 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 | 23 | Magnus | | | |
 | 24 | Johan | | | |
 
-## Results 2022
+## Results 2020
 
 | Day | Responsible | Beer | Untappd score | Ratebeer score |
 | --- | --- | --- | --- | --- |
-| 1 | Max | Berliner Pils | [3.06](https://untappd.com/b/berliner-kindl-schultheiss-brauerei-radeberger-gruppe-berliner-pilsner/6578) | [2.76](https://www.ratebeer.com/beer/berliner-pilsner/13471/) |
-| 2 | Magnus | | | |
-| 3 | Magnus | | | |
-| 4 | Max | Retard Beer | [3.45](https://untappd.com/b/west-coast-beersmiths-retard-beer/2588825) | [3.38](https://www.ratebeer.com/beer/beersmiths-retard-beer/639120/) |
-| 5 | Magnus | | | |
-| 6 | Max | Brewski ¡Buena Para El Papa! ¿Si, No? | [4.11](https://untappd.com/b/brewski-buena-para-el-papa-si-no/1520934) | [3.87](https://www.ratebeer.com/beer/brewski-buena-para-el-papa-si-no/418435/) |
-| 7 | Johan | | | |
-| 8 | Max | Maisel's Weisse Original | [3.61](https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642) | [3.63](https://www.ratebeer.com/beer/maisels-weisse-original/4560/) |
-| 9 | Max | Omnipollo Michaeil | [3.39](https://untappd.com/b/omnipollo-michael/5000659) | [3.06](https://www.ratebeer.com/beer/omnipollo-michael/1048880/) |
-| 10 | Magnus | | | |
-| 11 | Magnus | | | |
-| 12 | Johan | | | |
-| 13 | Johan | | | |
-| 14 | Magnus | | | |
-| 15 | Johan | | | |
-| 16 | Max | | | |
-| 17 | Johan | | | |
-| 18 | Max | | | |
-| 19 | Max | | | |
-| 20 | Johan | | | |
-| 21 | Johan | | | |
-| 22 | Magnus | | | |
-| 23 | Magnus | | | |
-| 24 | Johan | | | |
+| 1 | Max | Weihenstephaner Hefe Weissbier | [3.80](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745) | [3.96](https://www.ratebeer.com/beer/weihenstephaner-hefeweissbier/1156/) |
+| 2 | Max | Bernard Bohemian Winter Ale | [π](https://untappd.com/b/bernard-family-brewery-bohemian-winter-ale/1294417) | [3.26](https://www.ratebeer.com/beer/bernard-bohemian-ale-16/279996/) |
+| 3 | Johan | Norrlands Guld Export | [2.76](https://untappd.com/b/spendrups-bryggeri-norrlands-guld-export/8267) | [2.12](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=9671) |
+| 4 | Magnus | Stranger than Fiction | [3.72](https://untappd.com/b/collective-arts-brewing-stranger-than-fiction/1009922) | [3.68](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=325758) |
+| 5 | Max | Oppigård Winter Ale | [3.45](https://untappd.com/b/oppigards-bryggeri-winter-ale/12168) | [3.42](https://www.ratebeer.com/beer/oppigards-winter-ale/39203/) |
+| 6 | Max | Bernard Celebration Lager | [3.32](https://untappd.com/b/bernard-family-brewery-celebration-lager-svatecni-lezak/14628) | [3.22](https://www.ratebeer.com/beer/bernard-svatecni-lezak-12-celebration-lager-12/26766/) |
+| 7 | Magnus | Purity Pure Gold | [3.31](https://untappd.com/b/purity-brewing-co-england-pure-gold/6445) | [3.23](https://www.ratebeer.com/beer/purity-pure-gold/54329/) |
+| 8 | Max | Hibernation Ale | [3.65](https://untappd.com/b/great-divide-brewing-company-hibernation-ale/414) | [3.74](https://www.ratebeer.com/beer/great-divide-hibernation-ale/1653/) |
+| 9 | Johan | Störtebeker Bernstein-Weizen | [3.42](https://untappd.com/b/stortebeker-braumanufaktur-bernstein-weizen/29780) | [3.20](https://www.ratebeer.com/beer/stoertebeker-bernstein-weizen/39881/) |
+| 10 | Magnus | Rocket The King In Yellow | [3.32](https://untappd.com/b/rocket-brewing-company-the-king-in-yellow/3161442) | [2.93](https://www.ratebeer.com/beer/rocket-the-king-in-yellow/754185/) |
+| 11 | Johan | Falcon Julbrygd | [2.93](https://untappd.com/b/carlsberg-sverige-falcon-julbrygd/97541) | [2.66](https://www.ratebeer.com/beer/falcon-juloel-julbrygd/19971/) |
+| 12 | Magnus | Stigberget Muddle IPA | [3.91](https://untappd.com/b/stigbergets-bryggeri-muddle/1905809) | [3.97](https://www.ratebeer.com/beer/stigbergets-muddle/479461/) |
+| 13 | Johan | Samuel Adams Winter Lager | [3.43](https://untappd.com/b/boston-beer-company-samuel-adams-winter-lager/3919) | [3.21](https://www.ratebeer.com/beer/samuel-adams-winter-lager/168/) |
+| 14 | Johan | Barrels And Drums Ginger Beer | [3.16](https://untappd.com/b/barrels-and-drums-ginger-beer/2679469) | N/A |
+| 15 | Magnus | Omnipollo Noa Pecan Mud Cake Stout | [4.23](https://untappd.com/b/omnipollo-noa-pecan-mud-cake-stout/1046298) | [4.03](https://www.ratebeer.com/beer/omnipollo-noa-pecan-mud-cake-double-barrel/409868/) |
+| 16 | Magnus | Omnipollo Fatamorgana | [4.00](https://untappd.com/b/omnipollo-fatamorgana/477842) | [3.80](https://untappd.com/b/omnipollo-fatamorgana/477842) |
+| 17 | Johan | Innis & Gunn Blood Red Sky | [3.53](https://untappd.com/b/innis-and-gunn-blood-red-sky/2335869) | [3.42](https://www.ratebeer.com/beer/innis-and-gunn-blood-red-sky/561004/) |
+| 18 | Magnus | Göteborg Christmas Session IPA | [2.99](https://untappd.com/b/goteborgs-nya-bryggeri-christmas-session-ipa/2364082) | [3.10](https://www.ratebeer.com/beer/goeteborgs-christmas-session-ipa/564296/) |
+| 19 | Max | Stigbergets Trouble Sleep | [3.84](https://untappd.com/b/stigbergets-bryggeri-trouble-sleep/2809562) | [3.66](https://www.ratebeer.com/beer/stigbergets-trouble-sleep/658382/) |
+| 20 | Johan | Abbaye D’aulne Christmas Triple Ale | [3.48](https://untappd.com/b/brasserie-de-l-abbaye-d-aulne-abbaye-d-aulne-christmas-triple-ale/4082926) | [3.75](https://www.ratebeer.com/beer/de-l-abbaye-d-aulne-biere-de-noel/878392/) |
+| 21 | Magnus | Beerbliotek A Moment of Clarity | [3.63](https://untappd.com/b/beerbliotek-a-moment-of-clarity/1920392) | [3.74](https://www.ratebeer.com/beer/beerbliotek-a-moment-of-clarity/485750/) |
+| 22 | Max | Stigbergets Bird in Hand Double IPA | [3.87](https://untappd.com/b/stigbergets-bryggeri-bird-in-hand/2866271) | [3.79](https://www.ratebeer.com/beer/stigbergets-bird-in-hand/670436/) |
+| 23 | Max | Lagunitas Holiday Ale | [3.62](https://untappd.com/b/lagunitas-brewing-company-lagunitas-sucks-holiday-ale-2020/4036799) | [3.99](https://www.ratebeer.com/beer/lagunitas-sucks/158433/) |
+| 24 | Johan | Nils Oscar God Lager | [3.28](https://untappd.com/b/nils-oscar-god-lager/7816) | [3.12](https://www.ratebeer.com/Ratings/Beer/Beer-Ratings.asp?BeerID=6135) |

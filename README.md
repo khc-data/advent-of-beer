@@ -12,32 +12,32 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 
 ## Results 2023
 
-| Day | Responsible | Beer | Untappd score | Ratebeer score |
-| --- | --- | --- | --- | --- |
-| 1 | Magnus | | | |
-| 2 | Max | | | |
-| 3 | Magnus | | | |
-| 4 | Magnus | | | |
-| 5 | Magnus | | | |
-| 6 | Johan | | | |
-| 7 | Max | | | |
-| 8 | Johan | | | |
-| 9 | Max | | | |
-| 10 | Johan | | | |
-| 11 | Max | | | |
-| 12 | Max | | | |
-| 13 | Magnus | | | |
-| 14 | Johan | | | |
-| 15 | Johan | | | |
-| 16 | Johan | | | |
-| 17 | Johan | | | |
-| 18 | Magnus | | | |
-| 19 | Max | | | |
-| 20 | Magnus | | | |
-| 21 | Max | | | |
-| 22 | Johan | | | |
-| 23 | Magnus | | | |
-| 24 | Max | | | |
+| Day | Responsible | Beer | Magnus score | Max score | Johan score | Untappd score | Ratebeer score |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 (Fri) | Magnus | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 2 (Sat) | Max | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 3 (Sun) | Magnus | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 4 (Mon) | Magnus | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 5 (Tue) | Magnus | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 6 (Wed) | Johan | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 7 (Thu) | Max | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 8 (Fri) | Johan | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 9 (Sat) | Max | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 10 (Sun) | Johan | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 11 (Mon) | Max | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 12 (Tue) | Max | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 13 (Wed) | Magnus | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 14 (Thu) | Johan | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 15 (Fri) | Johan | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 16 (Sat) | Johan | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 17 (Sun) | Johan | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 18 (Mon) | Magnus | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 19 (Tue) | Max | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 20 (Wed) | Magnus | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 21 (Thu) | Max | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 24 (Sun) | Johan | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 24 (Sun) | Magnus | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
+| 24 (Sun) | Max | <!--- Beer --> | <!--- Magnus score --> | <!--- Max score --> | <!--- Johan score --> | <!--- Untappd --> | <!--- Ratebeer --> |
 
 ## Results 2022
 

@@ -12,29 +12,31 @@ To find out the day assignment you need to run the `day_assignment_yyyy.py`-scri
 
 ## Results 2023
 
+| Day | Responsible | Beer | Untappd score | Ratebeer score |
+| --- | --- | --- | --- | --- |
 | 1 | Magnus | | | |
 | 2 | Max | | | |
 | 3 | Magnus | | | |
 | 4 | Magnus | | | |
 | 5 | Magnus | | | |
-| 6 | Max | | | |
-| 7 | Magnus | | | |
+| 6 | Johan | | | |
+| 7 | Max | | | |
 | 8 | Johan | | | |
-| 9 | Johan | | | |
-| 10 | Max | | | |
-| 11 | Johan | | | |
+| 9 | Max | | | |
+| 10 | Johan | | | |
+| 11 | Max | | | |
 | 12 | Max | | | |
-| 13 | Max | | | |
-| 14 | Max | | | |
+| 13 | Magnus | | | |
+| 14 | Johan | | | |
 | 15 | Johan | | | |
 | 16 | Johan | | | |
-| 17 | Magnus | | | |
-| 18 | Johan | | | |
+| 17 | Johan | | | |
+| 18 | Magnus | | | |
 | 19 | Max | | | |
-| 20 | Johan | | | |
-| 21 | Magnus | | | |
-| 22 | Magnus | | | |
-| 23 | Johan | | | |
+| 20 | Magnus | | | |
+| 21 | Max | | | |
+| 22 | Johan | | | |
+| 23 | Magnus | | | |
 | 24 | Max | | | |
 
 ## Results 2022
